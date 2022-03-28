@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "882843287439",
+    "project_id": "myapp-4a561",
+    "storage_bucket": "myapp-4a561.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882843287439:android:ef8022af66a6929fe015fa",
+        "android_client_info": {
+          "package_name": "com.example.iamtired"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882843287439-o2o12gm425o0j96dd5en3s03672m3vkj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAib38zAHgWt85ds5pyWhG97TcYxap-7XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882843287439-o2o12gm425o0j96dd5en3s03672m3vkj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
